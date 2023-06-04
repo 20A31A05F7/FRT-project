@@ -23,7 +23,7 @@ This is a web based application developed for health related based website in in
 •	User can know about health information through this website.
 •	Included the feedback Survey form to increase the scope of improvement
 
-## Screenshots
+## Screenshots:
 
 ![Screenshot (360)](https://github.com/20A31A05F7/FRT-project/assets/109793160/1fbcddae-bb3a-411a-ad20-a45fb709c3ae)
 
