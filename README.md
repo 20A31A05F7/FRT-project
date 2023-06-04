@@ -7,7 +7,7 @@ This is a web based application developed for health related website.
 
 **Project Link** - https://blue-sand-0c41fa000.3.azurestaticapps.net/index.html
 
-**Project Demo Video Link** - 
+**Project Demo Video Link** - https://youtu.be/QJFB_-cDrDw 
 
 ## Azure Technologies used for our project :
 •	Static web apps
